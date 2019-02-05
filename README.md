@@ -2,6 +2,7 @@
 Criação de Array Dinâmicos em PHP
 
 **set_sub**
+
 Setar uma array dinâmico com mútiplos Índices
 Sintaxe:
 set_sub(&var, 'index', 'value');
@@ -18,6 +19,7 @@ print_r($var);
 ```
 
 **get_var**
+
 Obter uma valor dinâmico com múltiplos Índices
 Sintaxe:
 get_sub(var, 'index', 'default value');
